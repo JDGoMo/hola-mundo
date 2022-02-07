@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo :D
+Mi primer repositorio
 
 Autor: Daniel Gómez
 Fecha: 6/2/2021
